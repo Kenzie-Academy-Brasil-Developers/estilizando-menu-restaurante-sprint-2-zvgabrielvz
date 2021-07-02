@@ -20,7 +20,6 @@ dt {display: inline;}
 dd {display: inline; margin: 0;}
 dd::after {content: " "; display: block; clear: both; margin-bottom: 15px;}
 
-.price {float: right; padding: 0 0 35px 20px;}
 
 /* Right-align the text of the address/footer */
 
